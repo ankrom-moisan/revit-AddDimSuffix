@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command DimSuffix</Text>
+    <Description>Some description for DimSuffix</Description>
+    <Assembly>DimSuffix.dll</Assembly>
+    <FullClassName>DimSuffix.Command</FullClassName>
+    <ClientId>1f9c832b-6974-473b-a335-f8443b8e8236</ClientId>
+    <VendorId>AMAA</VendorId>
+    <VendorDescription>Ryan T. McCullough</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application DimSuffix</Name>
+    <Assembly>DimSuffix.dll</Assembly>
+    <FullClassName>DimSuffix.App</FullClassName>
+    <ClientId>9778f0f9-e829-4361-a303-1dc4a9ed6a64</ClientId>
+    <VendorId>AMAA</VendorId>
+    <VendorDescription>Ryan T. McCullough</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,12 @@
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\bin\Debug\DimSuffix.addin
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\bin\Debug\DimSuffix.dll
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\bin\Debug\DimSuffix.pdb
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\DimSuffix.csprojResolveAssemblyReference.cache
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\WPF\MainWindow.baml
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\WPF\MainWindow.g.cs
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\DimSuffix_MarkupCompile.cache
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\DimSuffix.g.resources
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\DimSuffix.Properties.Resources.resources
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\DimSuffix.csproj.GenerateResource.Cache
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\DimSuffix.dll
+c:\users\ryantm\documents\visual studio 2015\Projects\DimSuffix\DimSuffix\obj\Debug\DimSuffix.pdb
